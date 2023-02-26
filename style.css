@@ -1,0 +1,112 @@
+
+
+   
+
+nav{
+   
+    padding: 10px ;
+    width: 0px;
+    height: 100px;
+    margin: 100px;
+}
+.nav-item {
+   
+    padding: 10px 15px 0 0;
+    
+  
+}
+
+a{
+    display: block;
+}
+
+main{
+    position: center;
+    
+        background: whitesmoke ;
+        width: 75%;
+        min-height : 350px;
+        margin : 60px auto;
+        padding: 15px ;
+        border-radius: 15px;
+        box-shadow: 0 4px 14px 10px darkgray;
+}
+aside{
+    background: whitesmoke ;
+    width: 75%;
+    min-height : 250px;
+    margin : 10px auto;
+    padding: 20px ;
+    border-radius: 15px;
+    box-shadow: 2 2px 12px 10px white;
+}
+section{
+    position: center;
+    
+    background: url(./media/PCT1.jpg)center/cover;
+        width: 80%;
+        min-height : 300px;
+        margin : 60px auto;
+        padding: 25px ;
+        
+        box-shadow: 0 0px 2px 0px ;
+}
+#video{
+    position: center;
+    
+    background: url(./media/bg.jpg)center/cover;
+        width: 80%;
+        min-height : 250px;
+        margin : 60px auto;
+        padding: 23px ;
+        
+        box-shadow: 0 0px 2px 0px ;
+}
+.video{
+    background: url(./media/bg.jpg)center/cover;
+}
+article{
+    position: center;
+    
+        background: whitesmoke ;
+        width: 60%;
+        min-height : 300px;
+        margin : 30px auto;
+        padding: 20px ;
+        border-radius: 15px;
+        box-shadow: 0px 10px 5px black;
+}
+form{
+    border: solid 2px;
+    width: 25%;
+    height: 300px;
+    padding: 15px 10px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform :translate(-50%,25%) ;
+}
+footer{
+    background: url(./media/bg2.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    height: 280px;
+    width:60px;
+    min-width: 700px;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-bottom: 60px;
+    font-size: calc(0.8rem + 0.8vw);
+    color: rosybrown;
+}
+#contact{
+    margin-top: 10px;
+    padding: 80px  40px 0 ;
+    font-size: 2em;
+   color: darkkhaki;
+    text-shadow: 1px 1px 0 #bcf5a9,1px -1px 0 #bcf5a9 -1px 1px 0
+    #bcf5a9,-1px -1px 0 #bcf5a9,1px 0px 0 #bcf5a9,0px 1px 0 
+    #bcf5a9,1px 0px 0 #bcf5a9,0px -1px 0 #bcf5a9;
+    font-size: calc(0.9rem + 1.5vw);
+}
+
